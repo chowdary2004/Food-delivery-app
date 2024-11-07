@@ -1,0 +1,9 @@
+**Database Name: onlinefoodphp**
+
+**Developed by Rishitha**
+
+**Admin Login Details**
+
+Username: admin
+Password: 1234
+
